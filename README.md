@@ -10,3 +10,5 @@ This is a weather app that will display the weather in any city user searches fo
 This app receives data from [Weather API](https://openweathermap.org/api)
 
 ![wireframe](img/wireframe.png)
+
+Test
