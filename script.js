@@ -37,5 +37,6 @@ submit.addEventListener('click', (evt) => {
             return f
         }
     })
+    input.value=''
 })
 
